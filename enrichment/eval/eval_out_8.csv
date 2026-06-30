@@ -1,0 +1,6 @@
+first,last,company,linkedin_verdict,company_groundedness,funding_verdict,overall_quality,issues
+Orme,de Saint Hilaire,SambaNova,correct,5,accurate,5,"none; LinkedIn URL exact match, SambaNova EMEA role corroborated by colleague posts, $1B+ Series D funding/investors confirmed"
+Nithin,Thomas,Klarytee,correct,5,accurate,5,minor: latest_round dated Dec 2023 while founding 2021 stated; GBP700K pre-seed and named investors confirmed via press
+Jean-Luc,Vuattoux,Lexyra AI,correct,3,na,4,"person/LinkedIn (jlvuattoux, AWS Mainframe, Lausanne) confirmed but 'Lexyra AI' company itself unverified independently; funding honestly marked Unknown"
+Yuriy,Sheyko,Acquinox Capital,correct,5,na,5,none; site lists him Investment Manager vs conf 'Co-Head' - discrepancy honestly flagged; Acquinox 2023 Luxembourg PE and xAI/Epic exposure confirmed
+Daniel,Beerstecher,MGX,correct,5,accurate,5,minor: MGX 'VP' title not independently confirmed (profile headline shows prior Hg role); ~$50B fund close and OpenAI/Anthropic/xAI stakes confirmed

@@ -1,0 +1,6 @@
+first,last,company,linkedin_verdict,company_groundedness,funding_verdict,overall_quality,issues
+Stela,Llusha,Okta,correct,5,na,5,"none; title and Auth0/Okta CIC role confirmed across LinkedIn, RocketReach, TheOrg"
+Hakan,Elmas,Limak Datacenters Engineering and Construction and Elektromekanik,correct,5,accurate,4,LinkedIn confirmed and Limak-affiliated; exact 'Head of Family Office' title not directly seen but $831M correctly flagged as debt not equity
+Adrien,Vanheste,TIN Capital,correct,5,na,5,"profile details (Telecom Paris, Wavegame, cyber-power pub) match exactly; fund-size correctly framed as not startup funding"
+Michael,Borrelli,AI & Partners,unverifiable,4,na,4,AI & Partners + CEO Sean Musch + EU AI Act focus confirmed; given LinkedIn (michael-charles-borrelli) not independently surfaced (a different Toronto Michael Borrelli found instead)
+Nick,Dunayskyy,SeoProfy.com,correct,5,na,4,"LinkedIn + verbatim press-release quote confirm role; company facts (2012, Karpenko, Orlando) accurate; industry label 'Media, Press & Content' is mislabeled (SEO/marketing agency)"

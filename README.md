@@ -44,6 +44,22 @@ python3 make_excel.py                           # rebuild formatted workbooks
 
 Each scraper paginates at the server cap (120/page) with a polite delay.
 
+## Enrichment (`enrichment/`)
+
+Every person was enriched via one Linkup structured-output search (`depth=standard`) — LinkedIn, person bio, company homepage, what the company does, what it's building, and funding. Built with `enrich_full.py`; `recover_funding.py` does a dedicated second-pass funding search; `build_workbooks.py` produces the formatted Excel and the funding tiering.
+
+| Workbook | Rows | Notes |
+|---|---:|---|
+| `raise_enrichment_full.xlsx` | 4,403 | all registrants, + `funding_tier` column |
+| `raise_speakers_enriched.xlsx` | 372 | speakers |
+| `raise_cxo_enriched.xlsx` | 260 | CXO Summit executives (separate gated list, not in the Brella registrant API) |
+| `companies_by_funding.xlsx` | 2,672 | unique companies prioritized by funding tier |
+
+**Funding tiers** (capital raised; investors/public/government separated via the company description):
+`Tier 0` ≥ $500M · `Tier 1` $100M–$500M · `Tier 2` < $100M · `Tier 3` none/unknown · plus `Public` / `Investor` / `Established` / `Government` / `Non-profit`.
+
+> Caveat: the funding figure is best-effort — for very large/established entities the source sometimes reports valuation, AUM, or revenue rather than capital raised. Tiers are most reliable for the startup/scaleup population.
+
 ## Endpoints used
 
 - `GET /api/events/raisesummit2026/registrants` — full 4,403 registrant pool

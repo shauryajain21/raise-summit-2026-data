@@ -1,0 +1,6 @@
+first,last,company,linkedin_verdict,company_groundedness,funding_verdict,overall_quality,issues
+Alex,Webb,Stellanor Datacenters,correct,5,accurate,5,"LinkedIn alexwebb4d confirmed (posts re Redcentric->Stellanor GBP127M DWS deal, Redcentric sell-side); DWS backing and GBP127M acquisition verified. Minor: says '10-12 sites' but completed portfolio is 11."
+Jianhe,Liao,Bitdeer Inc.,none,5,off,2,"Could not verify Jianhe Liao as Bitdeer 'Principal AI Advisor' - only Jianhe Liao found is a Tencent/Spectro Cloud architect, no Bitdeer link; title likely fabricated/unverifiable. $400M notes+$149M equity confirmed, but Tether stake is ~19.7% per filings, not '~25%' (stale/overstated)."
+Stephen,Smith,vCluster,none,5,accurate,4,"Person 'Stephen Smith, Director' unverifiable (no LinkedIn given, common name); enrichment itself flags no confirmed profile. Company + $24M Khosla Series A and investor list fully verified."
+Jonathan,Taylor,IREN,correct,5,accurate,5,"none - LinkedIn jonathanbentleytaylor confirmed (IREN, 11yr Kearney, Stanford MBA, McKinsey, Gap); $9.7B Microsoft GB300 contract verified."
+Guillaume,Levy,Antemeta,correct,5,na,5,"none - LinkedIn confirmed (Directeur des operations AntemetA, ~7yr OVHcloud, CNAM); company profile matches antemeta.fr; no disclosed funding appropriate for 1995 SME."

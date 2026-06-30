@@ -1,0 +1,6 @@
+first,last,company,linkedin_verdict,company_groundedness,funding_verdict,overall_quality,issues
+Richard,Wang,DensityAI,correct,5,na,5,"none; LinkedIn, role, ex-Dojo/DensityAI founding (Ganesh Venkataramanan, ~20 ex-Dojo engineers) all independently confirmed; funding genuinely undisclosed"
+Darin,Verheijke,Featherless AI,unverifiable,5,accurate,5,$20M Series A (AMD+Airbus co-leads) + $5M seed = $25M total all confirmed; LinkedIn URL not independently corroborated but person/role consistent with public talks
+Andy,Griffin,vCluster,unverifiable,5,accurate,5,"vCluster/Loft Labs $24M Series A Apr 2024 (Khosla), $28.6M total, investor list all confirmed exactly; LinkedIn URL not independently verified"
+Manesh,Patel,Radiant,unverifiable,4,off,2,"FUNDING IS WRONG COMPANY: total_funding/$300M Series D/Draper+Boost VC/'R-50 Oak Ridge nuclear microreactor' all describe Radiant Nuclear, a different firm. This Radiant is a Brookfield AI-infra portfolio co (merged w/ Ori Industries Feb 2026, NVIDIA Cloud Partner). Patel listed on radiant.co but LinkedIn URL not independently checked"
+Tessy,Antony de nassau,Armada,none,5,accurate,4,"person & Armada role confirmed; $230M Series B at $2B (May 19 2026, Overmatch/8090/BlackRock co-lead) verified. But 'linkedin_url' field is a Wikipedia URL, not a LinkedIn profile"

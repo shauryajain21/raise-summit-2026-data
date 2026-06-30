@@ -1,0 +1,6 @@
+first,last,company,linkedin_verdict,company_groundedness,funding_verdict,overall_quality,issues
+Anton,Vnukov,SeoProfy,correct,5,na,5,"Verified: /in/antonvnukov is Head of Digital Growth at SeoProfy (since Apr 2025); company desc accurate (bootstrapped SEO agency, founded 2012 by Karpenko). None."
+Rene,van Oosten,SambaNova,correct,5,off,4,"LinkedIn (/in/rvoosten19690211) confirms Regional Sales Director, 30+ yrs, ex-Groq. Funding figures correct as of 2021 Series D but stale (>4yr old; no newer round)."
+Jong Hae,Choi,Incheon International Airport Corporation,correct,5,na,5,"Verified: /in/nangli8354 = Jong Hae Choi PhD, IIAC + Airport AI Alliance + adjunct prof Inha Univ Air Freight Logistics. State-owned, no funding. None."
+Sajan,Khosa,Liquid Energy,none,5,unverifiable,4,"Team page confirms Khosa as COO (titled Founder), Ravikumar CEO, Sekhon President; person_info correctly notes COO. No LinkedIn url. Funding not disclosed."
+Meredith,Maines,TRIEDGE INVESTMENTS,none,4,na,3,"CMO-at-TRIEDGE title unverifiable; no source links any Meredith Maines to TRIEDGE (only Lightspeed/Archewell figure). Enrichment flagged risk, left LinkedIn blank. Company desc accurate."

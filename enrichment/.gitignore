@@ -1,0 +1,6 @@
+# per-batch intermediates and scratch inputs
+batches/
+eval/eval_in_*.json
+*_in.csv
+speakers_gap_*.csv
+funding_recovery.csv
